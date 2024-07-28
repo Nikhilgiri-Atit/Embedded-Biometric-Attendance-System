@@ -7,9 +7,12 @@ This project is a facial-recognition based attendance system built using Raspber
 # Features
     Facial Recognition:
     Identifies and records attendance using facial recognition technology.
+    
     Tkinter UI:
     Dynamic user interface with custom buttons and live video feed display.
+    
     OpenCV Integration: 
     Provides real-time video processing and face detection.
+    
     MySQL Integration: 
     Manages user registrations and tracks attendance metrics efficiently.
